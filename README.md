@@ -2,9 +2,6 @@
 <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/801b2bc3-af80-413b-b4aa-72722c75a68b" />
 
 
-<p align="center">
-  <img src="assets/sarima_forecast.png" alt="SARIMA retail sales forecast" width="900">
-</p>
 
 <p align="center">
   <strong>Time series analysis and 24-month forecasting for monthly retail sales data</strong>
